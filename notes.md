@@ -16,4 +16,6 @@ Why do I want it to be enclosed again??
 
 Okay so I'm thinking let's do an enclosed setup with a nevermore filter? and then like each time a print finishes a trapdoor at the back will open and the print can slide out there
 
-Let's de-prioritize
+I guess I want something that can both be modded to shit but also something very reliable to do 24/7 printing
+
+hard to do both - let's make it happen anyways b/c I want it to!

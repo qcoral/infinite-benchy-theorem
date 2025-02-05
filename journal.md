@@ -1,11 +1,11 @@
- Made by: @dari // alexren
+Made by: @dari // alexren
 Repository link: https://github.com/qcoral/infinite-benchy-theorem
-Total hours so far: 1
+Total hours so far: 2
+- [x] I have a 3D printer or will be getting one before March 21st
 
 dari // alexren's attempt at making *yet another* 3D printer!
 
 Pitch: budget enclosed belted 3D printer. Can print farm for all my YSWS needs. Also just a fun device
-
 ## Day 0: February 1st, 2025
 
 Basically did some planning and preliminary research
@@ -30,7 +30,10 @@ I did move my planning and stuff from bare sublime text to an actual obsidian th
 
 also, remembered the nevermore exists so I'm going to try to integrate that since this thing will be printing 24/7
 
-**Time elapsed:** 1h
+**Time elapsed:** **1h**
+
+##  February 5th, 2025
+
 
 
 
