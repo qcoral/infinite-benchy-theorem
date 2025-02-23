@@ -16,4 +16,15 @@ Why do I want it to be enclosed again??
 
 Okay so I'm thinking let's do an enclosed setup with a nevermore filter? and then like each time a print finishes a trapdoor at the back will open and the print can slide out there
 
-Let's de-prioritize
+Let's de-prioritize the modability
+
+Okay high level overview
+
+Klipper macro after the thing automatically moves a stepper by X amount
+
+Features:
+- General CoreXY setup
+- Klipper + mainsail
+- MUST have a webcam installed
+
+
