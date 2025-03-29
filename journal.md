@@ -1,6 +1,6 @@
 Made by: @dari // alexren \
 Repository link: https://github.com/qcoral/infinite-benchy-theorem \
-Total hours so far: 2 \
+Total hours so far: 8h
 - [x] I have a 3D printer or will be getting one before March 21st
 
 ---
@@ -34,7 +34,46 @@ also, remembered the nevermore exists so I'm going to try to integrate that sinc
 
 **Time elapsed:** **1h**
 
-##  February 5th, 2025
+## March 27th, 2025
+Didn't touch this for two months whoops - let's lock in
+
+**Time elapsed: ~6h**
+
+Did a BUNCH of research and re orienting - I realized that a belt 3D printer was pretty pointless and a toolchanger with a print pushing tool would be a lot more fun.
+
+![[day1.png]]
+
+I also spent a ton of time looking into the bed setup. PCB heaters are boring, expensive, and dubious to source as they usually come from a black box. The usual alternative to this is just a slab of drilled mic-6 with a silicone heater on top and having the spring setup, but I wanted to avoid this b/c it seems overkill and also requires you to drill metal.
+
+Instead, I'm going to try slapping on a slab of g10 and adding a silicone heater underneath. It's going to be clamped onto the bed via a compliant spring mechanism. I was considering using aluminum for this but I'm worried the thermal conductivity + thermal expansion might deform the bed over time if I'm printing at 100C on the bed
+
+Fiberglass has a generally pretty poor thermal conductivity so I think I can get away with the g10 - overall though, I'm probably just gonna buy multiple solutions and test
+
+Anyhow - decided this was gonna be a fun printer to just implement & test features I've always wanted to.
+
+Also, it's super trippy to go back and play catch up for the past 2 years of the 3D printing market? weird to see how much stuff has changed but still cool to see how much is the same.
+
+I used to record a vlog after every day and just dump my mind of what I did and stuff I came across. Maybe I should start doing that again soon. Little awkward with other people around though.
+
+Status of printer: give or take using a lot of the same design considerations as I did with Neutrino, but I think the screenshots & commit history should speak for itself?? idk
+
+## March 28th, 2025
+
+**Time elapsed: ~2h**
+
+How the fuck is it 3:51pm when I started this lmao
+
+lock in.
+
+okay today was a bunch of meetings for stuff that I can't really talk about or else it'd be leeks lmao. Also first day I ran the mini hardware thing (?) too so that was awesome
+
+Anyways today was mostly solidifying the rest of the printer & figuring out some triple Z stuff - definitely appreciate the engineering that went into the 2.4 and Trident after this.
+
+Also ov3660's are so cheap. what. had no fucking clue lol. definitely gonna use them in my next build
+
+Mainly just still researching. This is taking a ton of time b/c I really want to make something high quality
+
+
 
 
 
