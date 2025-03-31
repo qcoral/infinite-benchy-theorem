@@ -73,6 +73,9 @@ Also ov3660's are so cheap. what. had no fucking clue lol. definitely gonna use 
 
 Mainly just still researching. This is taking a ton of time b/c I really want to make something high quality
 
+## March 30th, 2025
+
+Didn't touch this at all yesterday b/c I needed to adult & get my life together. Coming back today
 
 
 

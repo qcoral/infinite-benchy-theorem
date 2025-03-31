@@ -44,3 +44,18 @@ Okay. just filled out a canvas
 
 tl;dr we're gonna make an awesome printer, don't overoptimize on making an all-purpose manufacturing machine or max optimizing for speed
 
+This is just gonna be "how many features can we cram in for $300" lol
+
+Like tinkerer's dream
+
+Anyhow, this issue of VOCs seems rlly interesting - didn't realize toluene and other organic stuff i learned in chemistry class would actually appear.
+
+also it's really weird coming back to all of this.
+
+as for build volume - playing around in prusaslicer and like 99% of my prints fit within ~160mm. I think i'll run with something around there. 
+
+We do need a minimum size to fit the toolheads though. wonder how that'll work.
+
+Okay so a toolhead is roughly like 60mm in width??
+
+so apparently bed sizes are only 150, 200, etc. guess our work is cut out for us.
