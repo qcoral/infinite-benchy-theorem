@@ -102,6 +102,6 @@ officially started 3D modelling!!
 
 W 
 
-
+![[Pasted image 20250402151400.png]]
 
 

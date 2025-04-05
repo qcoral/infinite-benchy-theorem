@@ -59,3 +59,17 @@ We do need a minimum size to fit the toolheads though. wonder how that'll work.
 Okay so a toolhead is roughly like 60mm in width??
 
 so apparently bed sizes are only 150, 200, etc. guess our work is cut out for us.
+
+Let's change to LM8LUU bearings. We have the space to afford them and they should help with any inaccuracies that we might have to deal with
+
+Re: M3 vs M5 hardware on the belts - I think we can just roll with m5 and if we run into issues we can deal with it later. The first run won't be perfect.
+
+Also, I've yet to actually run into a print that reaches past 150mm; worst case we get one and can print diagonally.
+
+This design can scale up anyways hopefully (?) aka won't suck this time around + it's fun to use old hardware from blot so that we're not wasting parts.
+
+just spent 2-3h i think? idk
+
+yeah 2-3
+
+yapped w/ max
