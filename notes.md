@@ -59,3 +59,16 @@ We do need a minimum size to fit the toolheads though. wonder how that'll work.
 Okay so a toolhead is roughly like 60mm in width??
 
 so apparently bed sizes are only 150, 200, etc. guess our work is cut out for us.
+
+LOCK IN LOCK IN LOCK IN LOCK IN
+
+FUCK LOOOOOOOOOOOOOL
+
+TO FIX:
+- [ ] Add limits for the rod holders
+- [ ] Optimize the X/Y joints better - it shouldn't feel jank like we're trying to squeeze every last mm IMO
+- [ ] In general, just clean up dimensions to work better.
+
+jesus christ man i am so tired
+
+anyways as for the toolchanger - let's start with the stealthburner as a sanity check for now.
