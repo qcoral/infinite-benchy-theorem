@@ -81,10 +81,23 @@ LOCK IN LOCK IN LOCK IN LOCK IN
 FUCK LOOOOOOOOOOOOOL
 
 TO FIX:
-- [ ] Add limits for the rod holders
+- [ ] Add limits for the y rod holders
 - [ ] Optimize the X/Y joints better - it shouldn't feel jank like we're trying to squeeze every last mm IMO
 - [ ] In general, just clean up dimensions to work better.
 
 jesus christ man i am so tired
 
-anyways as for the toolchanger - let's start with the stealthburner as a sanity check for now.
+anyways as for the toolchanger - let's start with the stealthburner as a sanity check item for now.
+
+Ok so the prusa PCB bed is roughly 3mm thick; it's out of FR4 which seems to be slightly weaker mechanically and it holds up fine? I think the difference is that it has screws under evenly distributed throughout so idk how prints will hold up and whether or not it'll sag. Let's just get 4mm and run with it, seems to be fairly cheap and also stable *enough*
+(worst case its not and we figure something else out)
+
+hmmm z-axis height...
+
+150mm should in theory net at least 100mm of build volume, if not more. 
+
+I honest to god cannot remember the last time I needed to print something that tall. Let's just roll with it and then worst case get a 200mm one after
+
+As for webcam, I'm not too sure?? I can't get a solid read on the ov3660's quality so I think 
+
+AHH THAT's A L ATER PROBLEM
